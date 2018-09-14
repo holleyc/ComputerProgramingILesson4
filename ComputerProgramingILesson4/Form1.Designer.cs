@@ -129,7 +129,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(23, 22);
             this.button2.TabIndex = 0;
-            this.button2.Text = "button2";
+            this.button2.Text = "1";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // button3
