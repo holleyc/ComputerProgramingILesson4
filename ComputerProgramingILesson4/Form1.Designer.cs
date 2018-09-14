@@ -77,7 +77,7 @@
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(23, 22);
             this.button7.TabIndex = 5;
-            this.button7.Text = "button7";
+            this.button7.Text = "6";
             this.button7.UseVisualStyleBackColor = true;
             // 
             // button6
@@ -86,7 +86,7 @@
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(23, 22);
             this.button6.TabIndex = 4;
-            this.button6.Text = "button6";
+            this.button6.Text = "5";
             this.button6.UseVisualStyleBackColor = true;
             // 
             // button5
@@ -95,7 +95,7 @@
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(23, 22);
             this.button5.TabIndex = 3;
-            this.button5.Text = "button5";
+            this.button5.Text = "4";
             this.button5.UseVisualStyleBackColor = true;
             // 
             // button4
@@ -104,7 +104,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(23, 22);
             this.button4.TabIndex = 2;
-            this.button4.Text = "button4";
+            this.button4.Text = "3";
             this.button4.UseVisualStyleBackColor = true;
             // 
             // button3
